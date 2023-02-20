@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezzyaep" alt="sezzyaep" /></a> </p>
 
 - 🔭 I’m currently working on [terrority.club](https://terrority.club/)
-- 🔭 My second project is [frezzyhook.xyz](https://frezzyhook.xyz/)
+- 🔭 My second project is [frezzyhook.xyz](https://frezzyhook.com/)
 
 - 🌱 I’m currently learning **IOS App Tweak's**
 
 - 💬 Ask me about **C#,C++,Python,Java**
 
-- 📫 How to reach me **admin@terrority.club**
+- 📫 How to reach me **admin@frezzyhook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
