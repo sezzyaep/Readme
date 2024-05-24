@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on [terrority.club](https://terrority.club/)
 - 🔭 My second project is [frezzyhook.com](https://frezzyhook.com/)
 
-- 🌱 I’m currently learning **IOS App Tweak's**
+- 🌱 I’m currently learning **Cracking Softwares**
 
-- 💬 Ask me about **C#,C++,Python,Java**
+- 💬 Ask me about **C#,C++,Python,js**
 
 - 📫 How to reach me **admin@frezzyhook.com**
 
